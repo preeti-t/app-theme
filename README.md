@@ -2,15 +2,17 @@
 
 
 ## Table of contents
-* [Introduction - the project's aim](#general-info)
-* [Technologies](#technologies)
-* [Project Status](#status)
-* [Launch](https://preeti-t.github.io/app-theme/)
+
+- [Introduction - the project's aim](#general-info)
+- [Technologies](#technologies)
+- [Project Status](#status)
+- [Contributions](#contributions)
+- [Launch](https://preeti-t.github.io/app-theme/)
+- [Licence](#License)
+
 
 ## Introduction - the project's aim
-It is a web development website with affordable prices for small businesses.
-
-The starter package contains all the necessary elements which requires low maintenance and good prices for online presence.
+Making a responsive web design, work with Git and GitHub.
 
 
 ## Technologies
@@ -18,11 +20,16 @@ This Project is created with the help of:
 
 * HTML5
 * CSS
+* FLEXBOXGRID
 
 ## Project Status
 
-Project : finished.
+Project : finished/Updating
 
 ## Contributions
 
 All contributions are welcome.
+
+## License
+
+Copyright 2020 HackYourFuture Belgium.
