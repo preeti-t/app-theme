@@ -16,7 +16,7 @@ img{
 
 /* COMMON CLASSES */
 .primary-text{
-  color:#56a79a;
+  color:#F08080;
 }
 
 .primary-background{
@@ -25,7 +25,7 @@ img{
 
 /* HEADER */
 #main-header{
-  border-bottom:1px solid #56a79a;
+  border-bottom:1px solid #F08080;
 }
 
 /* NAVBAR */
